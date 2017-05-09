@@ -1,0 +1,542 @@
+{
+	"orders": [
+		{
+			"package": null,
+			"subjectItemAttachment": {
+				"item": "Strass Crystal SS24 ...",
+				"totalItems": 4,
+				"extraItems": 3
+			},
+			"items": [
+				{
+					"additionalInfo": {
+						"dimension": {
+							"cubicweight": 0.0002,
+							"height": 1,
+							"length": 1,
+							"weight": 622.2,
+							"width": 1
+						},
+						"categoriesIds": "/1000007/1000010/",
+						"productClusterId": "8,141,147,149,151",
+						"commercialConditionId": "1",
+						"brandName": "Asfour Crystal",
+						"brandId": "477396895",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "11954",
+					"priceValidUntil": "2018-04-10T17:45:13.4047023Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"uniqueId": "3449549D89F9436CA0B39AEE050B395D",
+					"id": "11954",
+					"productId": "12173",
+					"refId": "202_110_4_SS24",
+					"ean": "08880124001000",
+					"name": "Strass Crystal SS24 Asfour",
+					"skuName": "Strass Crystal SS24 Asfour",
+					"modalType": null,
+					"tax": 0,
+					"price": 4675,
+					"listPrice": 5610,
+					"manualPrice": null,
+					"sellingPrice": 4207,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/1000007/1000010/",
+					"productCategories": {
+						"1000007": "Strass",
+						"1000010": "Strass Base Conica"
+					},
+					"defaultPicker": null,
+					"handlerSequence": 0,
+					"handling": false,
+					"quantity": 2,
+					"seller": "1",
+					"imageUrl": "http://saviostrass.vteximg.com.br/arquivos/ids/169248-100-100/strass-crystal.jpg",
+					"detailUrl": "/strass-crystal-ss24-asfour/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"itemAttachment": {
+						"name": null,
+						"content": {}
+					},
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "discount@price-6c0b495f-3406-4016-86eb-1c5534148aac#83f56bce-8353-4603-b6fa-edc5d5e89615",
+							"value": -936,
+							"rawValue": -9.36,
+							"isPercentual": false,
+							"identifier": "6c0b495f-3406-4016-86eb-1c5534148aac"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1
+				},
+				{
+					"additionalInfo": {
+						"dimension": {
+							"cubicweight": 0.0002,
+							"height": 1,
+							"length": 1,
+							"weight": 318.82,
+							"width": 1
+						},
+						"categoriesIds": "/1000007/1000010/",
+						"productClusterId": "8,141,147,149,151",
+						"commercialConditionId": "1",
+						"brandName": "Asfour Crystal",
+						"brandId": "477396895",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "11980",
+					"priceValidUntil": "2018-04-10T17:45:13.4047023Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"uniqueId": "8F92C31137E04E27ACC3D6F9B407693E",
+					"id": "11980",
+					"productId": "12186",
+					"refId": "208_110_4_SS34",
+					"ean": "08880034001000",
+					"name": "Strass Crystal SS34 Asfour",
+					"skuName": "Strass Crystal SS34 Asfour",
+					"modalType": null,
+					"tax": 0,
+					"price": 3626,
+					"listPrice": 4351,
+					"manualPrice": null,
+					"sellingPrice": 3263,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/1000007/1000010/",
+					"productCategories": {
+						"1000007": "Strass",
+						"1000010": "Strass Base Conica"
+					},
+					"defaultPicker": null,
+					"handlerSequence": 0,
+					"handling": false,
+					"quantity": 2,
+					"seller": "1",
+					"imageUrl": "http://saviostrass.vteximg.com.br/arquivos/ids/169261-100-100/strass-crystal.jpg",
+					"detailUrl": "/strass-crystal-ss34-asfour/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"itemAttachment": {
+						"name": null,
+						"content": {}
+					},
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "discount@price-6c0b495f-3406-4016-86eb-1c5534148aac#83f56bce-8353-4603-b6fa-edc5d5e89615",
+							"value": -726,
+							"rawValue": -7.26,
+							"isPercentual": false,
+							"identifier": "6c0b495f-3406-4016-86eb-1c5534148aac"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1
+				}
+			],
+			"sellers": [
+				{
+					"subSellerId": "1",
+					"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=saviostrass",
+					"id": "1",
+					"name": "saviostrass",
+					"logo": ""
+				}
+			],
+			"paymentData": {
+				"giftCards": [],
+				"transactions": [
+					{
+						"isActive": true,
+						"transactionId": "A1FE014DB9F546CBB05D9FF2F68AF9A4",
+						"merchantName": "SAVIOSTRASS",
+						"payments": [
+							{
+								"id": "AE139B2FE5984EAAB9C4EC48E780148E",
+								"paymentSystem": "6",
+								"paymentSystemName": "Boleto Bancário",
+								"value": 16352,
+								"installments": 1,
+								"connectorResponses": {},
+								"referenceValue": 16352,
+								"cardHolder": null,
+								"cardNumber": null,
+								"firstDigits": null,
+								"lastDigits": null,
+								"cvv2": null,
+								"expireMonth": null,
+								"expireYear": null,
+								"url": "https://SAVIOSTRASS.vtexpayments.com.br:443/BankIssuedInvoice/Transaction/A1FE014DB9F546CBB05D9FF2F68AF9A4/Payment/AE139B2FE5984EAAB9C4EC48E780148E/Installment/{Installment}",
+								"koinUrl": null,
+								"tid": null,
+								"redemptionCode": null,
+								"giftCardId": null,
+								"giftCardProvider": null,
+								"giftCardAsDiscount": null,
+								"group": "bankInvoice",
+								"dueDate": "2017-04-12",
+								"accountId": null,
+								"parentAccountId": null
+							}
+						]
+					}
+				]
+			},
+			"giftRegistryData": null,
+			"receiptData": null,
+			"contextData": null,
+			"marketPlaceOrderId": "",
+			"orderFormId": "077fdf763df34c7fac44b99da49cc28e",
+			"sequence": "530274",
+			"affiliateId": "",
+			"status": "",
+			"callCenterOperator": "",
+			"userProfileId": "e57a350b-5a2a-491d-b0fd-67f2bf86d931",
+			"hostName": "saviostrass",
+			"creationVersion": null,
+			"creationEnvironment": null,
+			"lastChangeVersion": null,
+			"workflowInstanceId": null,
+			"orderId": "723942751450-01",
+			"orderGroup": "723942751450",
+			"state": "order-completed",
+			"isCheckedIn": false,
+			"sellerOrderId": "00-723942751450-01",
+			"storeId": null,
+			"value": 16352,
+			"totals": [
+				{
+					"id": "Items",
+					"name": "Total dos Itens",
+					"value": 16602
+				},
+				{
+					"id": "Discounts",
+					"name": "Total dos Descontos",
+					"value": -1662
+				},
+				{
+					"id": "Shipping",
+					"name": "Total do Frete",
+					"value": 1412
+				},
+				{
+					"id": "Tax",
+					"name": "Total da Taxa",
+					"value": 0
+				}
+			],
+			"clientProfileData": {
+				"attachmentId": "clientProfileData",
+				"email": "siquinha14@gmail.com-10b.ct.vtex.com.br",
+				"firstName": "Patricia",
+				"lastName": "Silva",
+				"document": "00732666988",
+				"documentType": "cpf",
+				"phone": "+551732583741",
+				"corporateName": null,
+				"tradeName": null,
+				"corporateDocument": null,
+				"stateInscription": null,
+				"corporatePhone": null,
+				"isCorporate": false,
+				"profileCompleteOnLoading": true,
+				"profileErrorOnLoading": false
+			},
+			"ratesAndBenefitsData": {
+				"attachmentId": "ratesAndBenefitsData",
+				"rateAndBenefitsIdentifiers": [
+					{
+						"id": "6c0b495f-3406-4016-86eb-1c5534148aac",
+						"name": "Desconto no Boleto",
+						"featured": false,
+						"description": "Desconto de 10% nas compras com Boleto Bancário."
+					}
+				],
+				"teaser": []
+			},
+			"shippingData": {
+				"attachmentId": "shippingData",
+				"address": {
+					"addressType": "residential",
+					"receiverName": "Patricia Silva",
+					"addressId": "-1472677756943",
+					"postalCode": "15115-000",
+					"city": "Bady Bassitt",
+					"state": "SP",
+					"country": "BRA",
+					"street": "Rua Camilo de Morais",
+					"number": "61",
+					"neighborhood": "Centro",
+					"complement": "Sala 1",
+					"reference": null,
+					"geoCoordinates": []
+				},
+				"logisticsInfo": [
+					{
+						"itemIndex": 0,
+						"selectedSla": "Normal",
+						"slas": [
+							{
+								"id": "Normal",
+								"deliveryChannel": null,
+								"name": "Normal",
+								"deliveryIds": [
+									{
+										"courierId": "16e5fd1",
+										"warehouseId": "1_1",
+										"dockId": "17bded3",
+										"courierName": "PAC",
+										"quantity": 2
+									}
+								],
+								"shippingEstimate": "5bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "8d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 934,
+								"listPrice": 934,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Premium",
+								"deliveryChannel": null,
+								"name": "Premium",
+								"deliveryIds": [
+									{
+										"courierId": "1d81831",
+										"warehouseId": "1_1",
+										"dockId": "17bded3",
+										"courierName": "SEDEX NORMAL",
+										"quantity": 2
+									}
+								],
+								"shippingEstimate": "1bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "8d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 1214,
+								"listPrice": 1214,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "11954"
+					},
+					{
+						"itemIndex": 1,
+						"selectedSla": "Normal",
+						"slas": [
+							{
+								"id": "Normal",
+								"deliveryChannel": null,
+								"name": "Normal",
+								"deliveryIds": [
+									{
+										"courierId": "16e5fd1",
+										"warehouseId": "1_1",
+										"dockId": "17bded3",
+										"courierName": "PAC",
+										"quantity": 2
+									}
+								],
+								"shippingEstimate": "5bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "8d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 478,
+								"listPrice": 478,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Premium",
+								"deliveryChannel": null,
+								"name": "Premium",
+								"deliveryIds": [
+									{
+										"courierId": "1d81831",
+										"warehouseId": "1_1",
+										"dockId": "17bded3",
+										"courierName": "SEDEX NORMAL",
+										"quantity": 2
+									}
+								],
+								"shippingEstimate": "1bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "8d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 622,
+								"listPrice": 622,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "11980"
+					}
+				],
+				"availableAddresses": [
+					{
+						"addressType": "residential",
+						"receiverName": "Patricia Silva",
+						"addressId": "-1472677756943",
+						"postalCode": "15115-000",
+						"city": "Bady Bassitt",
+						"state": "SP",
+						"country": "BRA",
+						"street": "Rua Camilo de Morais",
+						"number": "61",
+						"neighborhood": "Centro",
+						"complement": "Sala 1",
+						"reference": null,
+						"geoCoordinates": []
+					}
+				]
+			},
+			"clientPreferencesData": {
+				"attachmentId": "clientPreferencesData",
+				"locale": "pt-BR",
+				"optinNewsLetter": true
+			},
+			"commercialConditionData": null,
+			"marketingData": {
+				"attachmentId": "marketingData",
+				"utmSource": "",
+				"utmMedium": "",
+				"utmCampaign": "",
+				"utmipage": "_,_account_orders",
+				"utmiPart": "Navegador Todos Departamento,Html",
+				"utmiCampaign": "Strass Base CÃ´nica,v6",
+				"coupon": null,
+				"marketingTags": []
+			},
+			"storePreferencesData": {
+				"countryCode": "BRA",
+				"checkToSavePersonDataByDefault": false,
+				"templateOptions": {
+					"toggleCorporate": false
+				},
+				"timeZone": "E. South America Standard Time",
+				"currencyCode": "BRL",
+				"currencyLocale": 1046,
+				"currencySymbol": "R$",
+				"currencyFormatInfo": {
+					"currencyDecimalDigits": 2,
+					"currencyDecimalSeparator": ",",
+					"currencyGroupSeparator": ".",
+					"currencyGroupSize": 3,
+					"startsWithCurrencySymbol": true
+				}
+			},
+			"openTextField": null,
+			"customData": null,
+			"hooksData": null,
+			"changeData": null,
+			"salesChannel": "1",
+			"followUpEmail": "a542da51903143fea39d01d6e7d77b91@ct.vtex.com.br",
+			"creationDate": "2017-04-10T17:45:18.1318783Z",
+			"lastChange": "2017-04-10T17:45:31.2988467Z",
+			"timeZoneCreationDate": "2017-04-10T14:45:18.1318783",
+			"timeZoneLastChange": "2017-04-10T14:45:31.2988467",
+			"isCompleted": true,
+			"merchantName": null,
+			"userType": "",
+			"roundingError": 0,
+			"allowEdition": false,
+			"allowCancellation": false
+		}
+	],
+	"ordersUrl": "http://www.saviostrass.com.br/account/orders",
+	"orderGroup": "723942751450",
+	"subjectItemAttachment": {
+		"item": "Strass Crystal SS24 ...",
+		"totalItems": 4,
+		"extraItems": 3
+	},
+	"split": false,
+	"totalValue": 16352,
+	"_accountInfo": {
+		"HostName": "saviostrass",
+		"MainAccountName": "saviostrass",
+		"IsPersisted": true,
+		"IsRemoved": false,
+		"Id": "866ee887-1964-4f77-aaac-5d9db8ba6352",
+		"Cnpj": "07330512000165",
+		"CompanyName": "R. SAVIO - EPP",
+		"TradingName": "saviostrass",
+		"AccountName": "saviostrass",
+		"DefaultUrl": null,
+		"Address": "Rua Wilson Vitório Colleta",
+		"Number": null,
+		"Complement": null,
+		"District": "Jardim Maria Buchi Modeneis",
+		"City": "Limeira",
+		"State": "SP",
+		"PostalCode": "13482-225",
+		"Country": "Brazil",
+		"Telephone": "1921147800",
+		"IsActive": true,
+		"Sponsor": "d3452f3c-6aec-4cde-8519-9a85ad51297b",
+		"Logo": "avatar-skype.jpg",
+		"AppId": "1ef8afcc-0ca6-4e11-b271-6f19a3c506ed",
+		"IsOperating": true,
+		"LV": "LV-1459",
+		"Sigla": null
+	}
+}

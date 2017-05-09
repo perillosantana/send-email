@@ -1,0 +1,409 @@
+{
+	"order": {
+		"emailTracked": "5504dd5c70534defa0f9fcd40c726509@ct.vtex.com.br",
+		"cancelReason": null,
+		"cancelledBy": null,
+		"orderId": "v51858608arj-01",
+		"sequence": "51858608",
+		"marketplaceOrderId": "",
+		"marketplaceServicesEndpoint": "http://portal.vtexcommerce.com.br/api/oms?an=qautrodigital",
+		"sellerOrderId": "00-v51858608arj-01",
+		"origin": "Marketplace",
+		"affiliateId": "",
+		"salesChannel": "1",
+		"merchantName": null,
+		"status": "canceled",
+		"statusDescription": "Cancelado",
+		"value": 22696,
+		"creationDate": "2016-08-26T21:30:16.321459Z",
+		"lastChange": "2016-08-29T12:13:23.9991222Z",
+		"orderGroup": null,
+		"totals": [
+			{
+				"id": "Items",
+				"name": "Total dos Itens",
+				"value": 27680
+			},
+			{
+				"id": "Discounts",
+				"name": "Total dos Descontos",
+				"value": -6920
+			},
+			{
+				"id": "Shipping",
+				"name": "Total do Frete",
+				"value": 1936
+			},
+			{
+				"id": "Tax",
+				"name": "Total da Taxa",
+				"value": 0
+			}
+		],
+		"items": [
+			{
+				"uniqueId": "D12211D267BA4216A2D2DC8144275352",
+				"id": "780120",
+				"productId": "464791",
+				"ean": "7891000106105",
+				"lockId": "00-v51858608arj-01",
+				"itemAttachment": {
+					"content": {},
+					"name": null
+				},
+				"attachments": [],
+				"quantity": 6,
+				"seller": "1",
+				"name": "Neslac Comfor Composto Lácteo com 800g",
+				"refId": "780120",
+				"price": 3460,
+				"listPrice": 3460,
+				"manualPrice": null,
+				"priceTags": [],
+				"imageUrl": "http://quatrodigital.vteximg.com.br/arquivos/ids/3732788-55-55/07891000106099.jpg",
+				"detailUrl": "/neslac-comfor-composto-lacteo/p",
+				"components": [],
+				"bundleItems": [],
+				"params": [],
+				"offerings": [],
+				"sellerSku": "780120",
+				"priceValidUntil": null,
+				"commission": 0,
+				"tax": 0,
+				"preSaleDate": null,
+				"additionalInfo": {
+					"brandName": "Neslac",
+					"brandId": "9088",
+					"categoriesIds": "/4/38/",
+					"productClusterId": "268,269,273,275,280,361,363,367,374,394,395,397,398,401,402,404,405,411,413,426,430,431,432,433,437,438,441,459,464,466,467,470,471,502,504,509,520,521,524,527,531,532,535",
+					"commercialConditionId": "1",
+					"dimension": {
+						"cubicweight": 0.46,
+						"height": 15,
+						"length": 13.5,
+						"weight": 960,
+						"width": 13.5
+					},
+					"offeringInfo": null,
+					"offeringType": null,
+					"offeringTypeId": null
+				},
+				"measurementUnit": "un",
+				"unitMultiplier": 1,
+				"sellingPrice": 3460,
+				"isGift": false,
+				"shippingPrice": null
+			},
+			{
+				"uniqueId": "B435FA04E33C4D7F83A9E81DCC783135",
+				"id": "780120",
+				"productId": "464791",
+				"ean": "7891000106105",
+				"lockId": "00-v51858608arj-01",
+				"itemAttachment": {
+					"content": {},
+					"name": null
+				},
+				"attachments": [],
+				"quantity": 2,
+				"seller": "1",
+				"name": "Neslac Comfor Composto Lácteo com 800g",
+				"refId": "780120",
+				"price": 3460,
+				"listPrice": 3460,
+				"manualPrice": null,
+				"priceTags": [
+					{
+						"name": "DISCOUNT@SHIPPINGMARKETPLACE",
+						"value": 2,
+						"isPercentual": false,
+						"identifier": null
+					},
+					{
+						"name": "discount@price-10a87bca-c551-4630-ab07-cbeec0ae9713#f0bc3db0-01f1-40fc-86d3-7f868a4097c1",
+						"value": -6920,
+						"isPercentual": false,
+						"identifier": "10a87bca-c551-4630-ab07-cbeec0ae9713"
+					}
+				],
+				"imageUrl": "http://quatrodigital.vteximg.com.br/arquivos/ids/3732788-55-55/07891000106099.jpg",
+				"detailUrl": "/neslac-comfor-composto-lacteo/p",
+				"components": [],
+				"bundleItems": [],
+				"params": [],
+				"offerings": [],
+				"sellerSku": "780120",
+				"priceValidUntil": null,
+				"commission": 0,
+				"tax": 0,
+				"preSaleDate": null,
+				"additionalInfo": {
+					"brandName": "Neslac",
+					"brandId": "9088",
+					"categoriesIds": "/4/38/",
+					"productClusterId": "268,269,273,275,280,361,363,367,374,394,395,397,398,401,402,404,405,411,413,426,430,431,432,433,437,438,441,459,464,466,467,470,471,502,504,509,520,521,524,527,531,532,535",
+					"commercialConditionId": "1",
+					"dimension": {
+						"cubicweight": 0.46,
+						"height": 15,
+						"length": 13.5,
+						"weight": 960,
+						"width": 13.5
+					},
+					"offeringInfo": null,
+					"offeringType": null,
+					"offeringTypeId": null
+				},
+				"measurementUnit": "un",
+				"unitMultiplier": 1,
+				"sellingPrice": 0,
+				"isGift": false,
+				"shippingPrice": null
+			}
+		],
+		"marketplaceItems": [],
+		"clientProfileData": {
+			"id": "clientProfileData",
+			"email": "wellysson_gomes@hotmail.com",
+			"firstName": "Wellysson",
+			"lastName": "Godinho",
+			"documentType": "cpf",
+			"document": "04380986683",
+			"phone": "+5531975095000",
+			"corporateName": null,
+			"tradeName": null,
+			"corporateDocument": null,
+			"stateInscription": null,
+			"corporatePhone": null,
+			"isCorporate": false,
+			"userProfileId": "19cdb2b0-a35a-44cf-b1cf-81b6119f7d09"
+		},
+		"giftRegistryData": null,
+		"marketingData": {
+			"id": "marketingData",
+			"utmSource": "ALLINMAIL",
+			"utmPartner": null,
+			"utmMedium": "email",
+			"utmCampaign": "20160825_Especial_Beleza_Saude",
+			"coupon": null,
+			"utmiCampaign": "",
+			"utmipage": "",
+			"utmiPart": ""
+		},
+		"ratesAndBenefitsData": {
+			"id": "ratesAndBenefitsData",
+			"rateAndBenefitsIdentifiers": [
+				{
+					"description": "KV00007691",
+					"featured": true,
+					"id": "10a87bca-c551-4630-ab07-cbeec0ae9713",
+					"name": "Leve 3 Pague 2"
+				}
+			]
+		},
+		"shippingData": {
+			"id": "shippingData",
+			"address": {
+				"addressType": "residential",
+				"receiverName": "Wellysson Godinho",
+				"addressId": "-1467997489579",
+				"postalCode": "31741-585",
+				"city": "Belo Horizonte",
+				"state": "MG",
+				"country": "BRA",
+				"street": "Rua Laura Brito Farias",
+				"number": "438",
+				"neighborhood": "Heliópolis",
+				"complement": "Casa",
+				"reference": null
+			},
+			"logisticsInfo": [
+				{
+					"itemIndex": 0,
+					"selectedSla": "Pac",
+					"lockTTL": "6d",
+					"price": 1452,
+					"listPrice": 1452,
+					"sellingPrice": 1452,
+					"deliveryWindow": null,
+					"deliveryCompany": "PAC Principal",
+					"shippingEstimate": "8bd",
+					"shippingEstimateDate": "2016-09-07T18:32:41.8395149Z",
+					"slas": [
+						{
+							"id": "Pac",
+							"name": "Pac",
+							"shippingEstimate": "8bd",
+							"deliveryWindow": null,
+							"price": 1452
+						},
+						{
+							"id": "E-Sedex",
+							"name": "E-Sedex",
+							"shippingEstimate": "4bd",
+							"deliveryWindow": null,
+							"price": 1554
+						},
+						{
+							"id": "SEDEX",
+							"name": "SEDEX",
+							"shippingEstimate": "4bd",
+							"deliveryWindow": null,
+							"price": 1794
+						}
+					],
+					"shipsTo": [
+						"BRA"
+					],
+					"deliveryIds": [
+						{
+							"courierId": "60",
+							"courierName": "PAC Principal",
+							"dockId": "1_1_1",
+							"quantity": 6,
+							"warehouseId": "1_1"
+						}
+					]
+				},
+				{
+					"itemIndex": 1,
+					"selectedSla": "Pac",
+					"lockTTL": "6d",
+					"price": 484,
+					"listPrice": 482,
+					"sellingPrice": 484,
+					"deliveryWindow": null,
+					"deliveryCompany": "PAC Principal",
+					"shippingEstimate": "8bd",
+					"shippingEstimateDate": "2016-09-07T21:32:42.5563802Z",
+					"slas": [
+						{
+							"id": "Pac",
+							"name": "Pac",
+							"shippingEstimate": "8bd",
+							"deliveryWindow": null,
+							"price": 484
+						},
+						{
+							"id": "E-Sedex",
+							"name": "E-Sedex",
+							"shippingEstimate": "4bd",
+							"deliveryWindow": null,
+							"price": 518
+						},
+						{
+							"id": "SEDEX",
+							"name": "SEDEX",
+							"shippingEstimate": "4bd",
+							"deliveryWindow": null,
+							"price": 598
+						}
+					],
+					"shipsTo": [
+						"BRA"
+					],
+					"deliveryIds": [
+						{
+							"courierId": "60",
+							"courierName": "PAC Principal",
+							"dockId": "1_1_1",
+							"quantity": 2,
+							"warehouseId": "1_1"
+						}
+					]
+				}
+			]
+		},
+		"paymentData": {
+			"transactions": [
+				{
+					"isActive": true,
+					"transactionId": "6CBF44B5CC1A48839C78E7A15919D59A",
+					"payments": [
+						{
+							"id": "A70CF18E0C984E8394BD7B034EE90534",
+							"paymentSystem": "2",
+							"paymentSystemName": "Visa",
+							"value": 22696,
+							"installments": 3,
+							"referenceValue": 22696,
+							"cardHolder": null,
+							"cardNumber": null,
+							"firstDigits": "410863",
+							"lastDigits": "9095",
+							"cvv2": null,
+							"expireMonth": null,
+							"expireYear": null,
+							"url": null,
+							"giftCardId": null,
+							"giftCardName": null,
+							"giftCardCaption": null,
+							"redemptionCode": null,
+							"group": "creditCard",
+							"tid": "104639416600001DE2EA",
+							"dueDate": null,
+							"connectorResponses": {
+								"Tid": "104639416600001DE2EA",
+								"ReturnCode": "0",
+								"Message": "Sucesso",
+								"authId": "302667",
+								"Nsu": "122414",
+								"Arp": "302667",
+								"eci": "7",
+								"lr": "00"
+							}
+						}
+					]
+				}
+			]
+		},
+		"packageAttachment": {
+			"packages": []
+		},
+		"sellers": [
+			{
+				"id": "1",
+				"name": "Qautro Digital",
+				"logo": ""
+			}
+		],
+		"callCenterOperatorData": null,
+		"followUpEmail": "d43d8c9256c745a090e08c6e00154f5f@ct.vtex.com.br",
+		"lastMessage": "Não ganhei o desconto do frete.",
+		"hostname": "qautrodigital",
+		"changesAttachment": null,
+		"openTextField": null,
+		"roundingError": 0,
+		"orderFormId": "b82e28426eff47769ccb7fdab846158c"
+	},
+	"sacEmail": "0f793d78aec14979a19aa857fa4ae5ed@ct.vtex.com.br",
+	"reason": "Opção do cliente.",
+	"_accountInfo": {
+		"HostName": "qautrodigital",
+		"MainAccountName": "qautrodigital",
+		"IsPersisted": true,
+		"IsRemoved": false,
+		"Id": "05f456cd-08a5-404a-bb7b-8c69e381f833",
+		"Cnpj": "17256512000116",
+		"CompanyName": "Qautro Digital",
+		"TradingName": "Qautro Digital",
+		"AccountName": "qautrodigital",
+		"DefaultUrl": null,
+		"Address": "",
+		"Number": "",
+		"Complement": "",
+		"District": "",
+		"City": "",
+		"State": "",
+		"PostalCode": "",
+		"Country": "",
+		"Telephone": "",
+		"IsActive": true,
+		"Sponsor": "839caa08-df9e-4f33-9f1e-7e89ae20df9a",
+		"Logo": "",
+		"AppId": "41fe32ec-55b2-45c2-ab41-4d195518dc7e",
+		"IsOperating": true,
+		"LV": "LV-174",
+		"Sigla": null
+	}
+}

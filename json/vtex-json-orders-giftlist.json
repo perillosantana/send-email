@@ -1,0 +1,1417 @@
+{
+	"orders": [
+		{
+			"package": null,
+			"subjectItemAttachment": {
+				"item": "Sku Cobaia Kit reloa...",
+				"totalItems": 3,
+				"extraItems": 2
+			},
+			"items": [
+				{
+					"additionalInfo": {
+						"dimension": {
+							"cubicweight": 8.8746,
+							"height": 19,
+							"length": 59,
+							"weight": 1000,
+							"width": 38
+						},
+						"categoriesIds": "/4/",
+						"productClusterId": "136,137,139,140,142",
+						"commercialConditionId": "1",
+						"brandName": "Quatro Digital",
+						"brandId": "2000000",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "108",
+					"priceValidUntil": null,
+					"ean": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"uniqueId": "C5BD3A9499D14BCFAE4FFCBDC183151B",
+					"id": "108",
+					"productId": "58",
+					"refId": "jajakreloaded",
+					"name": "Sku Cobaia Kit reloaded",
+					"skuName": "Sku Cobaia Kit reloaded",
+					"modalType": null,
+					"tax": 0,
+					"price": 19900,
+					"listPrice": 21900,
+					"manualPrice": null,
+					"sellingPrice": 19900,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/4/",
+					"productCategories": {
+						"4": "Moda"
+					},
+					"defaultPicker": null,
+					"handlerSequence": 0,
+					"handling": false,
+					"quantity": 1,
+					"seller": "1",
+					"imageUrl": "http://quatrodigital.vteximg.com.br/arquivos/ids/156138-200-200/Bueno_mFilo_lookbook_-1432.jpg",
+					"detailUrl": "/cobaia-kit-copy-58-/p",
+					"components": [
+						{
+							"uniqueId": "67897D6DBBA44503A105FF141730CF5E",
+							"id": "56",
+							"productId": null,
+							"refId": "QD055",
+							"name": "Camisa Social Preta P",
+							"skuName": null,
+							"modalType": null,
+							"priceValidUntil": null,
+							"tax": 0,
+							"price": 3980,
+							"listPrice": null,
+							"manualPrice": null,
+							"sellingPrice": 3980,
+							"rewardValue": 0,
+							"isGift": false,
+							"additionalInfo": {
+								"brandName": null,
+								"brandId": null,
+								"offeringInfo": null,
+								"offeringType": null,
+								"offeringTypeId": null
+							},
+							"preSaleDate": null,
+							"productCategoryIds": null,
+							"productCategories": {},
+							"defaultPicker": null,
+							"handlerSequence": 0,
+							"handling": false,
+							"quantity": 1,
+							"seller": null,
+							"imageUrl": null,
+							"detailUrl": null,
+							"components": [],
+							"bundleItems": [],
+							"attachments": [],
+							"itemAttachment": {
+								"name": null,
+								"content": {}
+							},
+							"attachmentOfferings": [],
+							"offerings": [],
+							"priceTags": [],
+							"availability": null,
+							"measurementUnit": "un",
+							"unitMultiplier": 1
+						},
+						{
+							"uniqueId": "EECE03E6B7454F82B650299B95126E5A",
+							"id": "18",
+							"productId": null,
+							"refId": "QD018",
+							"name": "Calça London PP",
+							"skuName": null,
+							"modalType": null,
+							"priceValidUntil": null,
+							"tax": 0,
+							"price": 7960,
+							"listPrice": null,
+							"manualPrice": null,
+							"sellingPrice": 7960,
+							"rewardValue": 0,
+							"isGift": false,
+							"additionalInfo": {
+								"brandName": null,
+								"brandId": null,
+								"offeringInfo": null,
+								"offeringType": null,
+								"offeringTypeId": null
+							},
+							"preSaleDate": null,
+							"productCategoryIds": null,
+							"productCategories": {},
+							"defaultPicker": null,
+							"handlerSequence": 0,
+							"handling": false,
+							"quantity": 2,
+							"seller": null,
+							"imageUrl": null,
+							"detailUrl": null,
+							"components": [],
+							"bundleItems": [],
+							"attachments": [],
+							"itemAttachment": {
+								"name": null,
+								"content": {}
+							},
+							"attachmentOfferings": [],
+							"offerings": [],
+							"priceTags": [],
+							"availability": null,
+							"measurementUnit": "un",
+							"unitMultiplier": 1
+						}
+					],
+					"bundleItems": [],
+					"attachments": [],
+					"itemAttachment": {
+						"name": null,
+						"content": {}
+					},
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1
+				},
+				{
+					"additionalInfo": {
+						"dimension": {
+							"cubicweight": 1.25,
+							"height": 5,
+							"length": 60,
+							"weight": 200,
+							"width": 20
+						},
+						"categoriesIds": "/4/11/",
+						"productClusterId": "136,137,139,140,142",
+						"commercialConditionId": "1",
+						"brandName": "Quatro Digital",
+						"brandId": "2000000",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "61",
+					"priceValidUntil": null,
+					"ean": "060",
+					"commission": 0,
+					"freightCommission": 0,
+					"uniqueId": "C7F28BB480A6412CB23E947579F79D95",
+					"id": "61",
+					"productId": "24",
+					"refId": "QD060",
+					"name": "Boné Black Único",
+					"skuName": "Único",
+					"modalType": null,
+					"tax": 0,
+					"price": 3990,
+					"listPrice": 42990,
+					"manualPrice": null,
+					"sellingPrice": 3990,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/4/11/",
+					"productCategories": {
+						"4": "Moda",
+						"11": "Acessórios"
+					},
+					"defaultPicker": null,
+					"handlerSequence": 0,
+					"handling": false,
+					"quantity": 1,
+					"seller": "1",
+					"imageUrl": "http://quatrodigital.vteximg.com.br/arquivos/ids/155993-200-200/Bone.jpg",
+					"detailUrl": "/bone-black/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"itemAttachment": {
+						"name": null,
+						"content": {}
+					},
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1
+				},
+				{
+					"additionalInfo": {
+						"dimension": {
+							"cubicweight": 20,
+							"height": 60,
+							"length": 40,
+							"weight": 3000,
+							"width": 40
+						},
+						"categoriesIds": "/14/15/",
+						"productClusterId": "142",
+						"commercialConditionId": "1",
+						"brandName": "Quatro Digital",
+						"brandId": "2000000",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "106",
+					"priceValidUntil": null,
+					"ean": "104",
+					"commission": 0,
+					"freightCommission": 0,
+					"uniqueId": "41406CC828994E2EAD16C51B12228BEE",
+					"id": "106",
+					"productId": "56",
+					"refId": "QD104",
+					"name": "Conjunto de espetos e estrator para batatas 8 Peças",
+					"skuName": "8 Peças",
+					"modalType": null,
+					"tax": 0,
+					"price": 4999,
+					"listPrice": 4999,
+					"manualPrice": null,
+					"sellingPrice": 4999,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/14/15/",
+					"productCategories": {
+						"14": "Casa e Decoração",
+						"15": "Mesa Posta"
+					},
+					"defaultPicker": null,
+					"handlerSequence": 0,
+					"handling": false,
+					"quantity": 1,
+					"seller": "1",
+					"imageUrl": "http://quatrodigital.vteximg.com.br/arquivos/ids/156070-200-200/Conjunto-espetos.jpg",
+					"detailUrl": "/conjunto-de-espetos-e-estrator-para-batatas/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"itemAttachment": {
+						"name": null,
+						"content": {}
+					},
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1
+				}
+			],
+			"sellers": [
+				{
+					"subSellerId": "1",
+					"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=quatrodigital",
+					"id": "1",
+					"name": "QuatroDigital",
+					"logo": ""
+				}
+			],
+			"paymentData": {
+				"giftCards": [],
+				"transactions": [
+					{
+						"isActive": true,
+						"transactionId": "2B68B74266D5455191062A45A89BDDB9",
+						"merchantName": "QUATRODIGITAL",
+						"payments": [
+							{
+								"id": "CA8BADB5792B46BC81A115A3921CE520",
+								"paymentSystem": "202",
+								"paymentSystemName": "Deposito em conta",
+								"value": 28890,
+								"installments": 1,
+								"connectorResponses": {},
+								"referenceValue": 28890,
+								"cardHolder": null,
+								"cardNumber": null,
+								"firstDigits": null,
+								"lastDigits": null,
+								"cvv2": null,
+								"expireMonth": null,
+								"expireYear": null,
+								"url": null,
+								"koinUrl": null,
+								"tid": null,
+								"redemptionCode": null,
+								"giftCardId": null,
+								"giftCardProvider": null,
+								"giftCardAsDiscount": null,
+								"group": "promissory",
+								"dueDate": null,
+								"accountId": null,
+								"parentAccountId": null
+							}
+						]
+					}
+				]
+			},
+			"giftRegistryData": {
+				"giftRegistryId": "5055454"
+			},
+			"receiptData": null,
+			"marketPlaceOrderId": "",
+			"sellerOrderId": "00-653732399921-01",
+			"orderFormId": "428e3e76ca434c8bb38e94002e015dff",
+			"sequence": "500303",
+			"affiliateId": "",
+			"status": "",
+			"callCenterOperator": "",
+			"userProfileId": "0cbd0315-4982-49cc-9006-59fe61a4bc83",
+			"hostName": "quatrodigital",
+			"creationVersion": null,
+			"creationEnvironment": null,
+			"lastChangeVersion": null,
+			"workflowInstanceId": null,
+			"orderId": "653732399921-01",
+			"orderGroup": "653732399921",
+			"state": "payment-pending",
+			"isCheckedIn": false,
+			"storeId": null,
+			"value": 28890,
+			"totals": [
+				{
+					"id": "Items",
+					"name": "Total dos Itens",
+					"value": 28889
+				},
+				{
+					"id": "Discounts",
+					"name": "Total dos Descontos",
+					"value": 0
+				},
+				{
+					"id": "Shipping",
+					"name": "Total do Frete",
+					"value": 1
+				},
+				{
+					"id": "Tax",
+					"name": "Total da Taxa",
+					"value": 0
+				}
+			],
+			"clientProfileData": {
+				"attachmentId": "clientProfileData",
+				"email": "perillo.santana@quatrodigital.com.br-97b.ct.vtex.com.br",
+				"firstName": "Perillo",
+				"lastName": "Quatro",
+				"document": "40357687825",
+				"documentType": "cpf",
+				"phone": "+551159824869",
+				"corporateName": null,
+				"tradeName": null,
+				"corporateDocument": null,
+				"stateInscription": null,
+				"corporatePhone": null,
+				"isCorporate": false
+			},
+			"ratesAndBenefitsData": {
+				"attachmentId": "ratesAndBenefitsData",
+				"rateAndBenefitsIdentifiers": [],
+				"teaser": []
+			},
+			"shippingData": {
+				"attachmentId": "shippingData",
+				"address": {
+					"addressType": "residential",
+					"receiverName": "Perillo Quatro",
+					"addressId": "-1410355288581",
+					"postalCode": "04880298",
+					"city": "São Paulo",
+					"state": "SP",
+					"country": "BRA",
+					"street": "Alameda dos Jatobás",
+					"number": "6",
+					"neighborhood": "Recanto Campo Belo",
+					"complement": null,
+					"reference": null,
+					"geoCoordinates": []
+				},
+				"logisticsInfo": [
+					{
+						"itemIndex": 0,
+						"selectedSla": "Economica",
+						"slas": [
+							{
+								"id": "Economica",
+								"name": "Economica",
+								"deliveryIds": [
+									{
+										"courierId": "1327b50",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "Economica",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "22bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Normal",
+								"name": "Normal",
+								"deliveryIds": [
+									{
+										"courierId": "54",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "Transportadora Exemplo",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "4bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 171,
+								"listPrice": 171,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Expressa - Sedex",
+								"name": "Expressa - Sedex",
+								"deliveryIds": [
+									{
+										"courierId": "55",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "Sedex",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "5bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 238,
+								"listPrice": 238,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "E-Sedex",
+								"name": "E-Sedex",
+								"deliveryIds": [
+									{
+										"courierId": "57",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "eSedex",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "6bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 238,
+								"listPrice": 238,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Entrega Agendada",
+								"name": "Entrega Agendada",
+								"deliveryIds": [
+									{
+										"courierId": "59",
+										"warehouseId": "2_1",
+										"dockId": "1_2_1",
+										"courierName": "Entrega Agendada",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "23bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [
+									{
+										"startDateUtc": "2016-09-14T08:00:00+00:00",
+										"endDateUtc": "2016-09-14T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-14T13:00:00+00:00",
+										"endDateUtc": "2016-09-14T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-14T17:00:00+00:00",
+										"endDateUtc": "2016-09-14T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-15T08:00:00+00:00",
+										"endDateUtc": "2016-09-15T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-15T13:00:00+00:00",
+										"endDateUtc": "2016-09-15T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-15T17:00:00+00:00",
+										"endDateUtc": "2016-09-15T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-16T08:00:00+00:00",
+										"endDateUtc": "2016-09-16T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-16T13:00:00+00:00",
+										"endDateUtc": "2016-09-16T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-16T17:00:00+00:00",
+										"endDateUtc": "2016-09-16T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-19T08:00:00+00:00",
+										"endDateUtc": "2016-09-19T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-19T13:00:00+00:00",
+										"endDateUtc": "2016-09-19T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-19T17:00:00+00:00",
+										"endDateUtc": "2016-09-19T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-20T08:00:00+00:00",
+										"endDateUtc": "2016-09-20T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-20T13:00:00+00:00",
+										"endDateUtc": "2016-09-20T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-20T17:00:00+00:00",
+										"endDateUtc": "2016-09-20T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-21T08:00:00+00:00",
+										"endDateUtc": "2016-09-21T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-21T13:00:00+00:00",
+										"endDateUtc": "2016-09-21T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-21T17:00:00+00:00",
+										"endDateUtc": "2016-09-21T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-22T08:00:00+00:00",
+										"endDateUtc": "2016-09-22T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-22T13:00:00+00:00",
+										"endDateUtc": "2016-09-22T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-22T17:00:00+00:00",
+										"endDateUtc": "2016-09-22T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									}
+								],
+								"deliveryWindow": null,
+								"price": 1191,
+								"listPrice": 1191,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "108"
+					},
+					{
+						"itemIndex": 1,
+						"selectedSla": "Economica",
+						"slas": [
+							{
+								"id": "Economica",
+								"name": "Economica",
+								"deliveryIds": [
+									{
+										"courierId": "1327b50",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "Economica",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "22bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 0,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Normal",
+								"name": "Normal",
+								"deliveryIds": [
+									{
+										"courierId": "54",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "Transportadora Exemplo",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "4bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 34,
+								"listPrice": 34,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Expressa - Sedex",
+								"name": "Expressa - Sedex",
+								"deliveryIds": [
+									{
+										"courierId": "55",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "Sedex",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "5bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 48,
+								"listPrice": 48,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "E-Sedex",
+								"name": "E-Sedex",
+								"deliveryIds": [
+									{
+										"courierId": "57",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "eSedex",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "6bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 48,
+								"listPrice": 48,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Entrega Agendada",
+								"name": "Entrega Agendada",
+								"deliveryIds": [
+									{
+										"courierId": "59",
+										"warehouseId": "2_1",
+										"dockId": "1_2_1",
+										"courierName": "Entrega Agendada",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "23bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [
+									{
+										"startDateUtc": "2016-09-14T08:00:00+00:00",
+										"endDateUtc": "2016-09-14T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-14T13:00:00+00:00",
+										"endDateUtc": "2016-09-14T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-14T17:00:00+00:00",
+										"endDateUtc": "2016-09-14T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-15T08:00:00+00:00",
+										"endDateUtc": "2016-09-15T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-15T13:00:00+00:00",
+										"endDateUtc": "2016-09-15T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-15T17:00:00+00:00",
+										"endDateUtc": "2016-09-15T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-16T08:00:00+00:00",
+										"endDateUtc": "2016-09-16T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-16T13:00:00+00:00",
+										"endDateUtc": "2016-09-16T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-16T17:00:00+00:00",
+										"endDateUtc": "2016-09-16T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-19T08:00:00+00:00",
+										"endDateUtc": "2016-09-19T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-19T13:00:00+00:00",
+										"endDateUtc": "2016-09-19T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-19T17:00:00+00:00",
+										"endDateUtc": "2016-09-19T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-20T08:00:00+00:00",
+										"endDateUtc": "2016-09-20T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-20T13:00:00+00:00",
+										"endDateUtc": "2016-09-20T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-20T17:00:00+00:00",
+										"endDateUtc": "2016-09-20T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-21T08:00:00+00:00",
+										"endDateUtc": "2016-09-21T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-21T13:00:00+00:00",
+										"endDateUtc": "2016-09-21T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-21T17:00:00+00:00",
+										"endDateUtc": "2016-09-21T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-22T08:00:00+00:00",
+										"endDateUtc": "2016-09-22T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-22T13:00:00+00:00",
+										"endDateUtc": "2016-09-22T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-22T17:00:00+00:00",
+										"endDateUtc": "2016-09-22T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									}
+								],
+								"deliveryWindow": null,
+								"price": 238,
+								"listPrice": 238,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "61"
+					},
+					{
+						"itemIndex": 2,
+						"selectedSla": "Economica",
+						"slas": [
+							{
+								"id": "Economica",
+								"name": "Economica",
+								"deliveryIds": [
+									{
+										"courierId": "1327b50",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "Economica",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "22bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 1,
+								"listPrice": 1,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Normal",
+								"name": "Normal",
+								"deliveryIds": [
+									{
+										"courierId": "54",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "Transportadora Exemplo",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "4bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 514,
+								"listPrice": 514,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Expressa - Sedex",
+								"name": "Expressa - Sedex",
+								"deliveryIds": [
+									{
+										"courierId": "55",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "Sedex",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "5bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 714,
+								"listPrice": 714,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "E-Sedex",
+								"name": "E-Sedex",
+								"deliveryIds": [
+									{
+										"courierId": "57",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "eSedex",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "6bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 714,
+								"listPrice": 714,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							},
+							{
+								"id": "Entrega Agendada",
+								"name": "Entrega Agendada",
+								"deliveryIds": [
+									{
+										"courierId": "59",
+										"warehouseId": "2_1",
+										"dockId": "1_2_1",
+										"courierName": "Entrega Agendada",
+										"quantity": 1
+									}
+								],
+								"shippingEstimate": "23bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "12d",
+								"availableDeliveryWindows": [
+									{
+										"startDateUtc": "2016-09-14T08:00:00+00:00",
+										"endDateUtc": "2016-09-14T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-14T13:00:00+00:00",
+										"endDateUtc": "2016-09-14T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-14T17:00:00+00:00",
+										"endDateUtc": "2016-09-14T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-15T08:00:00+00:00",
+										"endDateUtc": "2016-09-15T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-15T13:00:00+00:00",
+										"endDateUtc": "2016-09-15T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-15T17:00:00+00:00",
+										"endDateUtc": "2016-09-15T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-16T08:00:00+00:00",
+										"endDateUtc": "2016-09-16T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-16T13:00:00+00:00",
+										"endDateUtc": "2016-09-16T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-16T17:00:00+00:00",
+										"endDateUtc": "2016-09-16T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-19T08:00:00+00:00",
+										"endDateUtc": "2016-09-19T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-19T13:00:00+00:00",
+										"endDateUtc": "2016-09-19T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-19T17:00:00+00:00",
+										"endDateUtc": "2016-09-19T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-20T08:00:00+00:00",
+										"endDateUtc": "2016-09-20T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-20T13:00:00+00:00",
+										"endDateUtc": "2016-09-20T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-20T17:00:00+00:00",
+										"endDateUtc": "2016-09-20T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-21T08:00:00+00:00",
+										"endDateUtc": "2016-09-21T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-21T13:00:00+00:00",
+										"endDateUtc": "2016-09-21T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-21T17:00:00+00:00",
+										"endDateUtc": "2016-09-21T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-22T08:00:00+00:00",
+										"endDateUtc": "2016-09-22T13:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-22T13:00:00+00:00",
+										"endDateUtc": "2016-09-22T17:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									},
+									{
+										"startDateUtc": "2016-09-22T17:00:00+00:00",
+										"endDateUtc": "2016-09-22T22:00:00+00:00",
+										"price": 0,
+										"lisPrice": 0,
+										"tax": 0
+									}
+								],
+								"deliveryWindow": null,
+								"price": 3571,
+								"listPrice": 3571,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								}
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "106"
+					}
+				],
+				"availableAddresses": [
+					{
+						"addressType": "residential",
+						"receiverName": "Perillo Quatro",
+						"addressId": "-1410355288581",
+						"postalCode": "04880298",
+						"city": "São Paulo",
+						"state": "SP",
+						"country": "BRA",
+						"street": "Alameda dos Jatobás",
+						"number": "6",
+						"neighborhood": "Recanto Campo Belo",
+						"complement": null,
+						"reference": null,
+						"geoCoordinates": []
+					}
+				]
+			},
+			"clientPreferencesData": {
+				"attachmentId": "clientPreferencesData",
+				"locale": "pt-BR",
+				"optinNewsLetter": true
+			},
+			"marketingData": null,
+			"storePreferencesData": {
+				"countryCode": "BRA",
+				"checkToSavePersonDataByDefault": false,
+				"templateOptions": {
+					"toggleCorporate": false
+				},
+				"timeZone": "E. South America Standard Time",
+				"currencyCode": "BRL",
+				"currencyLocale": 1046,
+				"currencySymbol": "R$",
+				"currencyFormatInfo": {
+					"currencyDecimalDigits": 2,
+					"currencyDecimalSeparator": ",",
+					"currencyGroupSeparator": ".",
+					"currencyGroupSize": 3,
+					"startsWithCurrencySymbol": true
+				}
+			},
+			"openTextField": null,
+			"changeData": null,
+			"salesChannel": "1",
+			"followUpEmail": "559693a1750c404e9271225ffa3cd8c8@ct.vtex.com.br",
+			"creationDate": "2016-08-11T20:40:21.0454694Z",
+			"lastChange": "2016-08-11T20:40:28.806678Z",
+			"timeZoneCreationDate": "2016-08-11T17:40:21.0454694",
+			"timeZoneLastChange": "2016-08-11T17:40:28.806678",
+			"isCompleted": true,
+			"merchantName": null,
+			"userType": "",
+			"roundingError": 0
+		}
+	],
+	"ordersUrl": "#",
+	"orderGroup": "653732399921",
+	"subjectItemAttachment": {
+		"item": "Sku Cobaia Kit reloa...",
+		"totalItems": 3,
+		"extraItems": 2
+	},
+	"split": false,
+	"totalValue": 28890,
+	"_accountInfo": {
+		"HostName": "quatrodigital",
+		"MainAccountName": "quatrodigital",
+		"IsPersisted": true,
+		"IsRemoved": false,
+		"Id": "3b982bd3-63d8-41a3-84cc-3f2ae5cac33d",
+		"Cnpj": "99999999999999",
+		"CompanyName": "QuatroDigital",
+		"TradingName": "QuatroDigital",
+		"AccountName": "quatrodigital",
+		"DefaultUrl": null,
+		"Address": null,
+		"Number": null,
+		"Complement": null,
+		"District": null,
+		"City": null,
+		"State": null,
+		"PostalCode": null,
+		"Country": null,
+		"Telephone": null,
+		"IsActive": true,
+		"Sponsor": "ed33d28e-9000-4777-8b0b-e4ceafdc3779",
+		"Logo": null,
+		"AppId": "9403c499-73e4-4e5e-9137-d1b43ebf29b4",
+		"IsOperating": false,
+		"LV": "LV-542",
+		"Sigla": null
+	}
+}
